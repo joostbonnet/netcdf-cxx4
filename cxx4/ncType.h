@@ -1,5 +1,6 @@
 #include <string>
 #include "netcdf.h"
+#include "netcdf-cxx4_export.h"
 
 #ifndef NcTypeClass
 #define NcTypeClass

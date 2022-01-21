@@ -22,7 +22,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcString class within the netCDF namespace. */
-  extern NcString ncString;
+  extern NETCDF_CXX4_EXPORT NcString ncString;
 
 }
 #endif

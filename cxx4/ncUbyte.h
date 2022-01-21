@@ -22,7 +22,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcUbyte class within the netCDF namespace. */
-  extern NcUbyte ncUbyte;
+  extern NETCDF_CXX4_EXPORT NcUbyte ncUbyte;
 
 }
 #endif

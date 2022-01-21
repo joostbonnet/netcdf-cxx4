@@ -24,7 +24,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcByte class within the netCDF namespace. */
-  extern NcByte ncByte;
+  extern NETCDF_CXX4_EXPORT NcByte ncByte;
 
 }
 #endif

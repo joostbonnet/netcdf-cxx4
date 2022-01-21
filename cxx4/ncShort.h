@@ -22,7 +22,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcShort class within the netCDF namespace. */
-  extern NcShort ncShort;
+  extern NETCDF_CXX4_EXPORT NcShort ncShort;
 
 }
 #endif

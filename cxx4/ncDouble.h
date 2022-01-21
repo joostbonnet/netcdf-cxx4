@@ -22,7 +22,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcDouble class within the netCDF namespace. */
-  extern NcDouble ncDouble;
+  extern NETCDF_CXX4_EXPORT NcDouble ncDouble;
 
 }
 #endif

@@ -22,7 +22,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcUint class within the netCDF namespace. */
-  extern NcUint ncUint;
+  extern NETCDF_CXX4_EXPORT NcUint ncUint;
 
 }
 #endif

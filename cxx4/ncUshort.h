@@ -22,7 +22,7 @@ namespace netCDF
   };
 
   // declare that the class instance ncUshort is known by all....
-  extern NcUshort ncUshort;
+  extern NETCDF_CXX4_EXPORT NcUshort ncUshort;
 
 }
 #endif

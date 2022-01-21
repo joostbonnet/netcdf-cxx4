@@ -22,7 +22,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcFloat class within the netCDF namespace. */
-  extern NcFloat ncFloat;
+  extern NETCDF_CXX4_EXPORT NcFloat ncFloat;
 
 }
 #endif

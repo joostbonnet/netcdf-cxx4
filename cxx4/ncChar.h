@@ -21,7 +21,7 @@ namespace netCDF
   };
 
   /*! A global instance  of the NcChar class within the netCDF namespace. */
-  extern NcChar ncChar;
+  extern NETCDF_CXX4_EXPORT NcChar ncChar;
 
 }
 #endif
